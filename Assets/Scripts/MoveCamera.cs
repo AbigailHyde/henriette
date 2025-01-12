@@ -9,7 +9,7 @@ public class MoveCamera : MonoBehaviour
     //public float smoothSpeed = 0.125f;
     //public Vector3 offset;
 
-    public float mouseSensitivity = 100f;
+    //public float mouseSensitivity = 100f;
 
     //private Vector3 velocity = Vector3.zero;
     // Start is called before the first frame update
